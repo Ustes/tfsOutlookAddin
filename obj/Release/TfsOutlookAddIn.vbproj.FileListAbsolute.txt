@@ -1,0 +1,15 @@
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\TfsOutlookAddIn.dll
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\TfsOutlookAddIn.pdb
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\TfsOutlookAddIn.xml
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\TfsOutlookAddIn.dll.manifest
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\TfsOutlookAddIn.vsto
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\bin\Release\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.RibbonTfs.resources
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.Resources.resources
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.vbproj.GenerateResource.Cache
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.dll
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.xml
+U:\Projects\TfsOutlookAddIn\TfsOutlookAddIn\obj\Release\TfsOutlookAddIn.pdb
